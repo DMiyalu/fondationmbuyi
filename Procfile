@@ -1,0 +1,1 @@
+web: gunicorn fondationMbuyi.wsgi --log-file -
